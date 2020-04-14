@@ -17,5 +17,5 @@ Leveraging the code in the Jupyter Notebook, each frame is passed to the Custom 
 ## 4. Stitch Frames Together to Create Results Video
 Using the Microsoft Photos app, a new video project was created by loading the results images into the storyboard, each with a duration of 0.2seconds. The resulting video was saved locally.  
 
-
-Future steps: I am currently working on using Azure Logic Apps and Azure Functions to automate this process. 
+## 5. Future steps
+Automation of this process using Azure Functions and Logic Apps. 
