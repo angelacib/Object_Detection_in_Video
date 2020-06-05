@@ -1,5 +1,5 @@
 # Object_Detection_in_Video
-Azure Custom Vision to detect objects in a video. By Angela!
+Azure Custom Vision to detect objects in a video. By Angela!!!!
 
 For this sample, we will use the Custom Vision API to predict the type of helicopter visible in each frame of a video. The video that is sampled is available here: https://www.youtube.com/watch?v=EbiPOwNr9bE&feature=youtu.be
 
